@@ -1,2 +1,2 @@
 # misc-challenges
-miscellaneous java puzzles
+miscellaneous java puzzles s
